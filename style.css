@@ -1,0 +1,43 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    overflow: none;
+}
+
+.row{
+    background-color: blue;
+}
+
+
+section{
+    display: flex;
+    align-content: center;
+    background-color: grey;
+    margin-top: 150px;
+    height: auto;
+    text-align: center;
+    width: auto;
+}
+
+#formCalculador{
+    justify-content: center;
+}
+
+
+
+section h1{
+    color: white;
+}
+
+#seccionResultados{
+    padding-bottom: 30px;
+}
+
+#seccionSoloIva{
+    padding-bottom: 30px;
+}
+
+#seccionHistorial ul{
+    list-style: none;
+}
